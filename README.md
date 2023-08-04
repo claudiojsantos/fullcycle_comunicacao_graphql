@@ -1,0 +1,1 @@
+# fullcycle_comunicacao_graphql
