@@ -8,4 +8,5 @@ import "github.com/claudiojsantos/fullcycle_comunicacao_graphql/internal/databas
 
 type Resolver struct {
 	CategoryDB *database.Category
+	CourseDB   *database.Course
 }
